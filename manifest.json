@@ -1,0 +1,7 @@
+{
+  "name": "AnuraTestApp",
+  "type": "auto",
+  "package": "aur.test",
+  "index": "index.html",
+  "icon": "github.png"
+}
